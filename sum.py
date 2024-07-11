@@ -1,4 +1,6 @@
-num1=10
-num2=20
-sum= num1 + num2
-print(sum)
+a=1;
+b=2;
+num1=a
+num2=b
+sum= a + b
+print("hello,the sum ",sum)
